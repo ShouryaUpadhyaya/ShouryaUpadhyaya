@@ -8,7 +8,7 @@ I'm a dedicated full-stack developer based in India, with a strong focus on craf
 - **Cross-Domain Exploration**: Dipping into IoT with Arduino, data processing with Python, and even creative tools like Photoshop for UI/UX prototyping.
 
 ## Featured Project
-### [Moss-X-](https://github.com/ShouryaUpadhyaya/Moss-X-)
+### [Moss-X](https://github.com/Moss-X/Website)
 A cutting-edge JavaScript-based application pushing the boundaries of real-time data handling and user interactivity. Moss-X- demonstrates my skills in building performant, modular codebases that integrate seamlessly with modern web standards. 
 
 
