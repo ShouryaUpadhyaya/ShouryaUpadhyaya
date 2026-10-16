@@ -1,32 +1,57 @@
-I'm a dedicated full-stack developer based in India, with a strong focus on crafting scalable web applications, exploring emerging technologies, and solving real-world challenges through code. With expertise spanning front-end, back-end, and DevOps, I enjoy building everything from interactive UIs to robust APIs and containerized services.
+### Hi, I'm Shourya 👋
 
-## What I Do
-- **Full-Stack Development**: Creating end-to-end solutions using modern JavaScript/TypeScript stacks.
-- **Backend Engineering**: Designing APIs with Node.js, Express, and databases like MongoDB & PostgreSQL.
-- **Frontend Innovation**: Building responsive interfaces with React, Redux, and Tailwind CSS.
-- **System Optimization**: Leveraging Docker, Kafka, and Redis for efficient, scalable architectures.
-- **Cross-Domain Exploration**: Dipping into IoT with Arduino, data processing with Python, and even creative tools like Photoshop for UI/UX prototyping.
+Backend-leaning full-stack developer · CSE @ VIT Vellore ('28) · open to SDE internships
 
-## Featured Project
-### [Moss-X](https://github.com/Moss-X/Website)
-A cutting-edge JavaScript-based application pushing the boundaries of real-time data handling and user interactivity. Moss-X- demonstrates my skills in building performant, modular codebases that integrate seamlessly with modern web standards. 
+I build production backends with **Node.js, PostgreSQL/MongoDB and Redis**, ship them in **Docker**, and monitor them with **Prometheus + Grafana**. I've led a small team that took an e-commerce store from zero to real Razorpay payments, and I run my own open-source study app on a self-hosted VPS.
 
-
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shourya-upadhyaya-998535332) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shouryaupadhyaya79@gmail.com) 
-
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=plastic&logo=radix-ui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=plastic&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShouryaUpadhyaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ShouryaUpadhyaya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShouryaUpadhyaya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Website](https://img.shields.io/badge/shouryaupadhyaya.com-000?style=flat&logo=googlechrome&logoColor=white)](https://www.shouryaupadhyaya.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shourya-upadhyaya-998535332)
+[![X](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://x.com/Shourya60756648)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shouryaupadhyaya26@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShouryaUpadhyaya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 What I've built
+
+**[OpenPumTa](https://github.com/ShouryaUpadhyaya/openPumta)** · [openpumta.com](https://openpumta.com)
+An open-source study OS (habits, tasks, Pomodoro and AI daily reviews) with **1,500+ lifetime visitors**.
+- Express + Prisma + PostgreSQL backend: 30+ REST APIs, 10 models, Google OAuth / JWT / Zod
+- Real-time Pomodoro sync across devices over WebSockets, plus Redis-cached analytics
+- Self-hosted with Docker Compose behind Nginx, monitored with Prometheus + Grafana
+
+**[Moss X](https://github.com/Moss-X/Website)** · Lead Full-Stack Developer (Apr–Oct 2025)
+An e-commerce platform; I designed and built the whole backend and led 3 frontend/mobile developers.
+- Node.js, Express, MongoDB and JWT APIs for auth, catalog, cart, orders, payments and analytics
+- Razorpay with webhook verification and idempotency: **20+ real payments, zero duplicate charges**
+- Redis caching brought homepage latency **under 50 ms**; aggregation pipelines power analytics and recommendations
+
+**[Cook Off 10.0](https://github.com/CodeChefVIT/cookoff-portal-10.0)** · CodeChef-VIT
+A competitive-coding portal with a custom CodeMirror 6 editor that served **1,000+ users** during live rounds.
+- Code is saved in three layers (Zustand → LocalStorage → MongoDB), so a refresh mid-contest loses nothing
+
+**[Job Agent](https://github.com/ShouryaUpadhyaya/job_agent)**
+My own job-search assistant: it pulls listings from official job-board APIs, scores them against multiple resumes, tracks applications and Gmail, and sends a daily briefing.
+- Express 5 + Prisma + PostgreSQL, Next.js 16 dashboard, in-process scheduler, Gemini with template fallbacks
+
+---
+
+### 🛠️ Stack
+
+**Languages** · TypeScript, JavaScript, Python, Java, C++, SQL
+**Backend** · Node.js, Express, Prisma, REST, WebSockets
+**Data** · PostgreSQL, MongoDB, Redis
+**Frontend** · React, Next.js, Tailwind CSS, Zustand
+**Infra** · Docker, Nginx, Linux, Prometheus, Grafana, Render, Vercel
+
+---
+
+### 💼 Experience
+
+| Role | Where | When |
+|---|---|---|
+| Lead Full-Stack Developer | Moss X | Apr 2025 – Oct 2025 |
+| Frontend Developer | Nepbyte Technology | Sep 2024 – Feb 2025 |
+
+---
+
+<sub>Currently: shipping OpenPumTa features and looking for a **backend / full-stack SDE internship**. If you're hiring, [say hi](mailto:shouryaupadhyaya26@gmail.com).</sub>
