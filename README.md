@@ -14,7 +14,7 @@ I build production backends with **Node.js, PostgreSQL/MongoDB and Redis**, ship
 ### 🚀 What I've built
 
 **[OpenPumTa](https://github.com/ShouryaUpadhyaya/openPumta)** · [openpumta.com](https://openpumta.com)
-An open-source study OS (habits, tasks, Pomodoro and AI daily reviews) with **1,500+ lifetime visitors**.
+An open-source study OS (habits, tasks, Pomodoro and AI daily reviews) with **300+ registered users**.
 - Express + Prisma + PostgreSQL backend: 30+ REST APIs, 10 models, Google OAuth / JWT / Zod
 - Real-time Pomodoro sync across devices over WebSockets, plus Redis-cached analytics
 - Self-hosted with Docker Compose behind Nginx, monitored with Prometheus + Grafana
