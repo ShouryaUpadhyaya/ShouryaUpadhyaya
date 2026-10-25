@@ -27,7 +27,7 @@
       "chips": ["Express", "Prisma", "PostgreSQL", "Redis", "WebSockets", "Docker"]
     },
     {
-      "id": "moss-x", "name": "Moss X", "tag": "LEAD FULL-STACK · APR–OCT 2025",
+      "id": "moss-x", "name": "Moss X", "tag": "FULL-STACK · APR–OCT 2025",
       "url": "https://github.com/Moss-X/Website",
       "desc": "E-commerce platform: I designed and built the whole backend and led 3 frontend/mobile developers from zero to real Razorpay payments.",
       "highlight": "20+ real payments with webhook verification and idempotency, zero duplicate charges; homepage under 50 ms.",
@@ -56,7 +56,7 @@
     ["INFRA", "Docker, Nginx, Linux, Prometheus, Grafana, Render, Vercel"]
   ],
   "experience": [
-    {"role": "Lead Full-Stack Developer", "where": "Moss X", "when": "Apr 2025 – Oct 2025"},
+    {"role": "Full-Stack Developer", "where": "Moss X", "when": "Apr 2025 – Oct 2025"},
     {"role": "Frontend Developer", "where": "Nepbyte Technology", "when": "Sep 2024 – Feb 2025"}
   ],
   "footer": "Currently shipping OpenPumTa features and looking for a backend / full-stack SDE internship."
