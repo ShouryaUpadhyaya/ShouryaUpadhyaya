@@ -1,0 +1,21 @@
+{
+  "repos": 21,
+  "languages": [
+    [
+      "JavaScript",
+      11
+    ],
+    [
+      "TypeScript",
+      4
+    ],
+    [
+      "Shell",
+      1
+    ],
+    [
+      "Go",
+      1
+    ]
+  ]
+}
