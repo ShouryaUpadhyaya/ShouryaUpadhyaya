@@ -1,5 +1,5 @@
 {
-  "repos": 22,
+  "repos": 20,
   "languages": [
     [
       "JavaScript",
@@ -7,7 +7,7 @@
     ],
     [
       "TypeScript",
-      4
+      2
     ],
     [
       "Kotlin",
@@ -22,5 +22,5 @@
       1
     ]
   ],
-  "contributions": 775
+  "contributions": 855
 }
